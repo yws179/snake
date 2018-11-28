@@ -1,5 +1,9 @@
 # SNAKE
 
+> Author : YWS (严伟森)
+>
+> Email : yws179@gmail.com
+
 这是一个非常简单是贪吃蛇实现，虽然是命令行程序，但我使用WIN API加入了界面效果。
 
 #### 效果展示
