@@ -1,4 +1,4 @@
-# SNAKE
+# SNAKE ![](https://img.shields.io/badge/version-1.0-519dd9.svg)
 
 > Author : YWS (严伟森)
 >
