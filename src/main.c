@@ -1,12 +1,12 @@
 /***********************************************************
-    > File Name:     Snakev4.0
+    > File Name:     Snake v1.0
     > Author:        YWS
-    > Mail:          563098030@qq.com
+    > Mail:          yws179@gmail.com
     > ADI:           Codeblocks
     > Created Time:  2015年10月30日 23:58:50
 ************************************************************/
 
-#include <F:\外部头文件\pcc32.h>
+#include "..\lib\pcc32.h"
 #define FALSE 0
 #define TRUE 1
 #define HEAD 2
